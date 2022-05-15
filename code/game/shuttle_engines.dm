@@ -77,6 +77,11 @@
 	name = "engine platform"
 	icon_state = "platform"
 	desc = "A platform for engine components."
+<<<<<<< HEAD
+=======
+	density = TRUE
+	anchored = TRUE
+>>>>>>> ab7f8dd553 (shuttle platforms are now anchored (#1075))
 	pass_flags_self = PASSPLATFORM
 
 /obj/structure/shuttle/platform/corner
