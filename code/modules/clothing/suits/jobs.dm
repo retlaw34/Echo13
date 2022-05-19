@@ -166,8 +166,6 @@
 	if(!allowed)
 		allowed = GLOB.security_vest_allowed //it's hop-equivalent gear after all
 
-<<<<<<< HEAD
-=======
 /obj/item/clothing/suit/toggle/lawyer/cmo
 	name = "light blue suit jacket"
 	desc = "A foppish dress jacket."
@@ -198,7 +196,6 @@
 	desc = "A foppish dress jacket."
 	icon_state = "suitjacket_light_blue"
 
->>>>>>> fire
 //Mime
 /obj/item/clothing/suit/toggle/suspenders
 	name = "suspenders"

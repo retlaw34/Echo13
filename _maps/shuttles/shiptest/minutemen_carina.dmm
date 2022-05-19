@@ -41,11 +41,6 @@
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/engineering)
 "ar" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/sign/number/four,
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/cargo)
-=======
 /obj/structure{
 	desc = "Looks menacing, but it's rusted in place.";
 	dir = 10;
@@ -55,15 +50,10 @@
 	},
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/hallway/starboard)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "az" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/medical)
 "aO" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-=======
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
@@ -73,7 +63,6 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/patterned,
 /area/ship/cargo)
 "aZ" = (
@@ -94,8 +83,6 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /area/ship/hallway/central)
 "bd" = (
 /obj/structure/fans/tiny,
@@ -125,7 +112,6 @@
 	name = "Briefing"
 	},
 /turf/open/floor/plasteel,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/hallway/central)
 "br" = (
 /obj/effect/turf_decal/siding/white{
@@ -135,49 +121,27 @@
 /obj/structure/cable{
 	icon_state = "0-2"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/siding/white{
-	dir = 1
-	},
-/turf/open/floor/plasteel,
-/area/ship/hallway/starboard)
-"bC" = (
-/obj/structure/sign/number/five{
-	dir = 1
-	},
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/security)
-=======
 /turf/open/floor/plasteel,
 /area/ship/hallway/starboard)
 "bC" = (
 /obj/structure/sign/minutemen,
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/hallway/port)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "bD" = (
 /obj/machinery/mineral/ore_redemption{
 	dir = 8;
 	input_dir = 2;
 	output_dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech/grid,
-=======
 /obj/effect/turf_decal/industrial/hatch,
 /obj/machinery/door/firedoor,
 /turf/open/floor/plating,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/storage)
 "bI" = (
 /obj/structure/sign/number/five{
 	dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned,
-=======
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/security)
 "bP" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
@@ -200,12 +164,6 @@
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/cargo)
 "cg" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/lattice,
-/turf/template_noop,
-/area/ship/external)
-"ck" = (
-=======
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/arrows{
 	dir = 4
@@ -216,7 +174,6 @@
 /obj/structure/sign/number/four{
 	dir = 1
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/security)
 "ct" = (
@@ -249,13 +206,6 @@
 /obj/effect/turf_decal/borderfloor{
 	dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned,
-/area/ship/cargo)
-"cQ" = (
-/turf/closed/wall/mineral/plastitanium,
-/area/ship/medical)
-=======
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
 "cQ" = (
@@ -269,7 +219,6 @@
 /obj/structure/fans/tiny,
 /turf/open/floor/plating,
 /area/ship/maintenance/fore)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "db" = (
 /obj/structure{
 	desc = "Looks menacing, but it's rusted in place.";
@@ -319,15 +268,6 @@
 	},
 /turf/open/floor/plasteel,
 /area/ship/hallway/central)
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-"dP" = (
-/obj/structure/bed,
-/obj/item/bedsheet/blue,
-/obj/structure/curtain/bounty,
-/turf/open/floor/carpet/royalblue,
-/area/ship/bridge)
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "dR" = (
 /obj/structure/bed,
 /obj/item/bedsheet/grey,
@@ -335,13 +275,6 @@
 	dir = 8
 	},
 /obj/effect/decal/cleanable/dirt,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/flasher{
-	id = "Cell 2";
-	pixel_x = -24
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/effect/turf_decal/corner/grey/diagonal,
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
@@ -350,15 +283,12 @@
 	icon_state = "1-2"
 	},
 /obj/item/wrench,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/effect/turf_decal/techfloor/orange{
 	dir = 8
 	},
 /obj/machinery/atmospherics/pipe/simple/orange/hidden{
 	dir = 9
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/engineering)
 "eg" = (
@@ -368,11 +298,6 @@
 /obj/effect/turf_decal/siding/thinplating/dark{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-=======
 /obj/effect/turf_decal/corner/blue/diagonal,
 /obj/item/circuitboard/computer/rdconsole,
 /obj/structure/frame/computer{
@@ -381,26 +306,11 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "ej" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/hallway/port)
 "em" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure{
-	desc = "Looks menacing, but it's rusted in place.";
-	dir = 1;
-	icon = 'icons/obj/turrets.dmi';
-	icon_state = "syndie_off";
-	name = "defunct ship turret"
-	},
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/security)
-"eo" = (
-/obj/machinery/door/firedoor/border_only{
-=======
 /obj/structure/sign/number/nine{
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	dir = 1
 	},
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
@@ -413,15 +323,10 @@
 /obj/structure/sign/minutemen{
 	pixel_y = -32
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned,
-/area/ship/cargo)
-=======
 /obj/item/circuitboard/machine/rdserver,
 /obj/structure/frame/machine,
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "eA" = (
 /obj/structure/cable{
 	icon_state = "2-4"
@@ -438,10 +343,6 @@
 /obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer2{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/landmark/observer_start,
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/effect/turf_decal/siding/white{
 	dir = 8
 	},
@@ -452,11 +353,7 @@
 	icon_door = "warden";
 	icon_state = "warden";
 	name = "armorer's locker";
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	req_one_access_txt = "1"
-=======
 	req_access_txt = "3"
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/machinery/newscaster/security_unit{
 	pixel_x = 28
@@ -483,38 +380,6 @@
 /obj/item/radio/intercom{
 	pixel_y = 28
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/item/clothing/shoes/combat,
-/obj/item/clothing/under/rank/security/officer/minutemen,
-/obj/item/clothing/accessory/armband,
-/obj/item/clothing/suit/armor/bulletproof,
-/obj/item/storage/belt/military,
-/obj/item/clothing/head/cowboy/sec/minutemen,
-/obj/item/clothing/glasses/sunglasses,
-/obj/effect/turf_decal/corner/red{
-	dir = 1
-	},
-/obj/effect/turf_decal/corner/red{
-	dir = 4
-	},
-/obj/effect/turf_decal/corner/red,
-/obj/item/clothing/accessory/holster,
-/obj/item/ammo_box/c38/match,
-/obj/item/ammo_box/c38/match,
-/obj/item/gun/ballistic/revolver/detective,
-/obj/item/melee/classic_baton,
-/turf/open/floor/plasteel/dark,
-/area/ship/security/prison)
-"eR" = (
-/turf/closed/wall/mineral/plastitanium,
-/area/ship/storage)
-"eU" = (
-/obj/structure/sign/number/four{
-	dir = 1
-	},
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/security)
-=======
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
 "eR" = (
@@ -542,7 +407,6 @@
 	},
 /turf/open/floor/plasteel/patterned/cargo_one,
 /area/ship/cargo)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "fj" = (
 /obj/structure{
 	desc = "Looks menacing, but it's rusted in place.";
@@ -571,17 +435,6 @@
 	},
 /turf/open/floor/plasteel/white,
 /area/ship/medical)
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-"fV" = (
-/obj/machinery/light/small{
-	dir = 8
-	},
-/obj/machinery/flasher{
-	id = "Cell 1";
-	pixel_x = -24
-	},
-/obj/effect/turf_decal/corner/grey/diagonal,
-=======
 "fO" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/box/corners,
@@ -592,7 +445,6 @@
 "fV" = (
 /obj/effect/turf_decal/corner/grey/diagonal,
 /obj/effect/turf_decal/number/one,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
 "ge" = (
@@ -628,25 +480,8 @@
 /obj/item/storage/backpack,
 /obj/item/storage/backpack,
 /obj/item/storage/backpack,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/item/radio/headset,
-/obj/item/radio/headset,
-/obj/item/radio/headset,
-/obj/item/radio/headset,
-/obj/item/radio/headset,
 /turf/open/floor/plasteel/mono,
 /area/ship/crew)
-"gv" = (
-/obj/structure/closet/emcloset/wall{
-	pixel_y = 28
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plasteel/tech,
-/area/ship/storage)
-=======
-/turf/open/floor/plasteel/mono,
-/area/ship/crew)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "gx" = (
 /obj/structure/closet/secure_closet{
 	icon_door = "armory";
@@ -683,12 +518,9 @@
 /obj/effect/turf_decal/corner/red{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/structure/cable{
 	icon_state = "2-8"
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
 "gA" = (
@@ -703,20 +535,6 @@
 	},
 /turf/open/floor/plasteel/patterned,
 /area/ship/crew)
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-"gV" = (
-/obj/structure/sign/number/nine{
-	dir = 1
-	},
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/security)
-"he" = (
-/obj/effect/turf_decal/arrows{
-	dir = 4
-	},
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-=======
 "gT" = (
 /obj/machinery/mass_driver{
 	dir = 4;
@@ -758,7 +576,6 @@
 	},
 /turf/open/floor/carpet/royalblue,
 /area/ship/bridge)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "hf" = (
 /obj/machinery/power/terminal{
 	dir = 8
@@ -780,26 +597,14 @@
 /obj/effect/turf_decal/corner/red{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/recharger,
-/obj/effect/turf_decal/corner/red{
-	dir = 8
-	},
 /obj/effect/turf_decal/corner/red{
 	dir = 1
 	},
-=======
-/obj/effect/turf_decal/corner/red{
-	dir = 1
-	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/item/screwdriver,
 /obj/item/spacepod_key/sec{
 	pixel_x = -8;
 	pixel_y = 9
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/structure/cable{
 	icon_state = "2-4"
 	},
@@ -809,7 +614,6 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
 "hs" = (
@@ -817,25 +621,6 @@
 /obj/item/radio/intercom/wideband{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/engine/hull,
-/area/ship/cargo)
-"hv" = (
-/obj/machinery/airalarm/all_access{
-	pixel_y = 24
-	},
-/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4,
-/obj/effect/turf_decal/industrial/outline/yellow,
-/obj/structure/closet/crate/trashcart,
-/obj/item/mop,
-/obj/item/caution,
-/obj/item/caution,
-/obj/item/reagent_containers/glass/bucket,
-/obj/item/storage/bag/trash,
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/storage)
-=======
 /obj/item/gps{
 	gpstag = null;
 	pixel_x = -9;
@@ -851,7 +636,6 @@
 /obj/item/stack/spacecash/c1000,
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "hA" = (
 /obj/machinery/light{
 	dir = 1
@@ -860,24 +644,6 @@
 /turf/open/floor/carpet,
 /area/ship/crew)
 "hD" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/light,
-/obj/machinery/airalarm/all_access{
-	dir = 4;
-	pixel_x = -24
-	},
-/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
-	dir = 1
-	},
-/obj/machinery/computer/cargo/express{
-	dir = 4
-	},
-/turf/open/floor/plasteel/patterned,
-/area/ship/cargo)
-"hR" = (
-/turf/closed/wall/mineral/plastitanium,
-/area/ship/maintenance/fore)
-=======
 /obj/effect/spawner/structure/window/plasma/reinforced/plastitanium,
 /obj/machinery/door/firedoor/window,
 /obj/machinery/door/poddoor/shutters{
@@ -889,7 +655,6 @@
 "hR" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/security)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "hT" = (
 /obj/machinery/power/terminal{
 	dir = 8
@@ -952,20 +717,6 @@
 "iH" = (
 /turf/closed/wall/mineral/plastitanium,
 /area/ship/engineering)
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-"jw" = (
-/obj/structure/window/reinforced{
-	dir = 8
-	},
-/obj/structure/window/reinforced,
-/obj/machinery/autolathe,
-/obj/effect/turf_decal/corner/red,
-/obj/effect/turf_decal/corner/red{
-	dir = 8
-	},
-/obj/effect/turf_decal/corner/red{
-	dir = 1
-=======
 "jc" = (
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/south,
@@ -989,7 +740,6 @@
 /obj/machinery/rnd/production/protolathe/department/security,
 /obj/structure/cable{
 	icon_state = "1-8"
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
@@ -997,13 +747,6 @@
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/engineering)
 "jQ" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-"ke" = (
-/obj/structure/cable{
-	icon_state = "4-8"
-=======
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 4
 	},
@@ -1020,49 +763,17 @@
 "ke" = (
 /obj/effect/turf_decal/siding/thinplating/dark{
 	dir = 1
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/machinery/navbeacon/wayfinding/sec{
 	location = "Brig"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/closet/wall{
-	dir = 1;
-	icon_door = "red_wall";
-	name = "uniform closet";
-	pixel_y = -28
-	},
-/obj/item/clothing/under/rank/security/officer/minutemen,
-/obj/item/clothing/under/rank/security/officer/minutemen,
-/obj/item/clothing/under/rank/security/officer/minutemen,
-/obj/item/clothing/shoes/combat,
-/obj/item/clothing/shoes/combat,
-/obj/item/clothing/shoes/combat,
-/obj/item/clothing/gloves/combat,
-/obj/item/clothing/gloves/combat,
-/obj/item/clothing/gloves/combat,
-/obj/item/clothing/mask/gas/sechailer/minutemen,
-/obj/item/clothing/mask/gas/sechailer/minutemen,
-/obj/item/clothing/mask/gas/sechailer/minutemen,
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 1
-=======
 /obj/machinery/firealarm{
 	dir = 1;
 	pixel_y = -24
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /turf/open/floor/plasteel/tech,
 /area/ship/security/prison)
 "ko" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/cable,
-/obj/machinery/power/apc/auto_name/south,
-/obj/effect/turf_decal/industrial/outline/yellow,
-/obj/structure/reagent_dispensers/fueltank,
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/storage)
-=======
 /obj/structure/cable{
 	icon_state = "1-8"
 	},
@@ -1074,7 +785,6 @@
 	},
 /turf/open/floor/plasteel/patterned,
 /area/ship/cargo)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "kp" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -1101,16 +811,6 @@
 	req_access_txt = "1"
 	},
 /obj/effect/decal/cleanable/dirt,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/number/one{
-	dir = 4
-	},
-/obj/effect/turf_decal/corner/grey/diagonal,
-/obj/effect/turf_decal/siding/wideplating/dark{
-	dir = 4
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
 "ky" = (
@@ -1153,37 +853,6 @@
 /obj/machinery/door/firedoor/border_only{
 	dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/firealarm{
-	dir = 4;
-	pixel_x = -28;
-	pixel_y = -28
-	},
-/obj/item/storage/backpack,
-/obj/item/clothing/shoes/combat,
-/obj/item/clothing/under/rank/command/minutemen,
-/obj/item/clothing/head/cowboy/sec/minutemen,
-/obj/item/clothing/glasses/sunglasses,
-/obj/item/radio/headset/heads/hos/alt,
-/obj/item/storage/box/ids{
-	pixel_x = -7
-	},
-/obj/item/stamp/head_of_personnel{
-	name = "lieutenant's rubber stamp"
-	},
-/obj/item/ammo_box/c38/match,
-/obj/item/ammo_box/c38/match,
-/obj/item/gun/ballistic/revolver/detective,
-/obj/structure/closet/secure_closet/wall{
-	dir = 4;
-	icon_door = "solgov_wall";
-	icon_state = "solgov_wall";
-	name = "bridge officer's locker";
-	pixel_x = -28
-	},
-/turf/open/floor/carpet/royalblue,
-/area/ship/bridge)
-=======
 /obj/machinery/door/firedoor/border_only,
 /obj/effect/turf_decal/borderfloor{
 	dir = 1
@@ -1197,7 +866,6 @@
 	},
 /turf/open/floor/plasteel,
 /area/ship/hallway/central)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "kY" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 1
@@ -1241,13 +909,6 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/siding/white,
-/turf/open/floor/plasteel,
-/area/ship/hallway/starboard)
-"mt" = (
-/obj/structure/sign/number/five,
-=======
 /obj/structure/cable{
 	icon_state = "1-8"
 	},
@@ -1264,7 +925,6 @@
 /turf/open/floor/plasteel/patterned,
 /area/ship/cargo)
 "mt" = (
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/cargo)
 "mE" = (
@@ -1299,11 +959,7 @@
 	icon_state = "2-8"
 	},
 /obj/effect/spawner/lootdrop/maintenance,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/techfloor{
-=======
 /obj/effect/turf_decal/techfloor/orange{
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	dir = 4
 	},
 /obj/effect/turf_decal/techfloor/hole/right{
@@ -1333,8 +989,6 @@
 /obj/structure/cable/yellow{
 	icon_state = "0-2"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/effect/turf_decal/techfloor/orange{
 	dir = 8
 	},
@@ -1344,7 +998,6 @@
 /obj/machinery/atmospherics/pipe/manifold/orange/hidden{
 	dir = 1
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/engineering)
 "no" = (
@@ -1412,13 +1065,6 @@
 /obj/effect/turf_decal/siding/white{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/siding/white/corner,
-/obj/effect/turf_decal/siding/white/corner{
-	dir = 4
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/central)
 "nD" = (
@@ -1427,15 +1073,6 @@
 /obj/item/storage/fancy/donut_box{
 	pixel_x = 3;
 	pixel_y = 3
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	},
-/obj/effect/turf_decal/corner/red,
-/obj/effect/turf_decal/corner/red{
-	dir = 8
-	},
-/obj/item/flashlight/lamp{
-	pixel_x = -7
-=======
 	},
 /obj/effect/turf_decal/corner/red,
 /obj/effect/turf_decal/corner/red{
@@ -1446,7 +1083,6 @@
 	},
 /obj/machinery/door/window/brigdoor/southright{
 	req_access_txt = "3"
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
@@ -1465,19 +1101,6 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
-/turf/open/floor/plasteel/patterned,
-/area/ship/security)
-"nF" = (
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
-/obj/machinery/door/window/brigdoor/southleft,
-/obj/effect/turf_decal/corner/red,
-/obj/effect/turf_decal/corner/red{
-	dir = 8
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
 "nO" = (
@@ -1492,12 +1115,6 @@
 /turf/open/floor/plasteel/patterned,
 /area/ship/crew)
 "nP" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/closed/wall/mineral/plastitanium,
-/area/ship/bridge)
-"og" = (
-/obj/machinery/power/apc/auto_name/north,
-=======
 /obj/effect/turf_decal/siding/thinplating/dark{
 	dir = 1
 	},
@@ -1505,21 +1122,9 @@
 /obj/effect/turf_decal/siding/thinplating/dark/corner{
 	dir = 8
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/siding/white{
-	dir = 1
-	},
-/turf/open/floor/plasteel,
-/area/ship/hallway/starboard)
-"ov" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
-	dir = 4
-	},
-=======
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
 "od" = (
@@ -1539,7 +1144,6 @@
 /area/ship/cargo)
 "oe" = (
 /obj/effect/decal/cleanable/dirt,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/patterned/cargo_one,
 /area/ship/cargo)
 "ov" = (
@@ -1585,16 +1189,10 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/industrial/outline,
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-=======
 /turf/open/floor/plasteel/stairs{
 	dir = 4
 	},
 /area/ship/hallway/starboard)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "oJ" = (
 /obj/machinery/door/airlock/security{
 	name = "Brig";
@@ -1624,13 +1222,10 @@
 /obj/effect/turf_decal/corner/red{
 	dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/effect/mapping_helpers/airlock/unres{
 	dir = 8
 	},
 /obj/effect/mapping_helpers/airlock/unres,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/security/prison)
 "oY" = (
@@ -1655,10 +1250,7 @@
 /obj/effect/turf_decal/corner/red{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/structure/window/reinforced,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
 "oZ" = (
@@ -1675,18 +1267,6 @@
 	dir = 4;
 	id = "space_cops_starboard_launcher"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4,
-/turf/open/floor/plasteel/patterned,
-/area/ship/security)
-"pA" = (
-/obj/machinery/door/window/eastright,
-/obj/machinery/button/massdriver{
-	id = "space_cops_starboard_launcher";
-	name = "starboard mass driver button";
-	pixel_x = 7;
-	pixel_y = 24
-=======
 /obj/structure/sign/warning/vacuum/external{
 	pixel_y = 32
 	},
@@ -1702,7 +1282,6 @@
 /obj/item/spacepod_equipment/tracker{
 	pixel_x = 12;
 	pixel_y = 5
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/effect/turf_decal/industrial/traffic,
 /obj/effect/turf_decal/industrial/stand_clear/white{
@@ -1717,13 +1296,6 @@
 	id = "space_cops_windows";
 	name = "blast shutters"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/storage)
-"pC" = (
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plasteel/patterned,
-=======
 /turf/open/floor/plating,
 /area/ship/hallway/port)
 "pC" = (
@@ -1736,7 +1308,6 @@
 	},
 /obj/item/wrench/crescent,
 /turf/open/floor/plasteel/patterned/cargo_one,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/security)
 "pI" = (
 /obj/machinery/power/port_gen/pacman,
@@ -1761,20 +1332,6 @@
 /obj/effect/turf_decal/techfloor{
 	dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech/grid,
-/area/ship/engineering)
-"qc" = (
-/obj/structure{
-	desc = "Looks menacing, but it's rusted in place.";
-	dir = 5;
-	icon = 'icons/obj/turrets.dmi';
-	icon_state = "syndie_off";
-	name = "defunct ship turret"
-	},
-/turf/closed/wall/mineral/plastitanium,
-/area/ship/maintenance/fore)
-=======
 /obj/machinery/atmospherics/pipe/simple/supply/visible/layer2{
 	dir = 10
 	},
@@ -1796,17 +1353,11 @@
 /obj/item/clothing/head/helmet/space/pilot/random,
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "qj" = (
 /obj/effect/turf_decal/box/corners{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/item/wrench/crescent,
-/turf/open/floor/plasteel/patterned,
-=======
 /turf/open/floor/plasteel/patterned/cargo_one,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/security)
 "qq" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
@@ -1834,14 +1385,8 @@
 /obj/machinery/light{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2,
-/obj/item/pod_parts/armor/black,
-/obj/machinery/portable_atmospherics/canister/air,
-=======
 /obj/effect/turf_decal/industrial/traffic,
 /obj/effect/turf_decal/arrows,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
 "qB" = (
@@ -1874,12 +1419,6 @@
 /obj/machinery/door/firedoor/border_only{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-=======
 /obj/machinery/door/firedoor/border_only{
 	dir = 4
 	},
@@ -1902,7 +1441,6 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "rk" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -1923,19 +1461,11 @@
 /area/ship/hallway/central)
 "rm" = (
 /obj/effect/decal/cleanable/dirt,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/landmark/start/security_officer,
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 4
-	},
-/turf/open/floor/plasteel/tech,
-=======
 /obj/effect/spawner/structure/window/reinforced,
 /obj/structure/cable{
 	icon_state = "0-4"
 	},
 /turf/open/floor/plating,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/security/prison)
 "rp" = (
 /obj/machinery/light/small,
@@ -1954,15 +1484,8 @@
 /obj/machinery/light{
 	dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
-/turf/open/floor/plasteel/patterned,
-/area/ship/cargo)
-=======
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "rz" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -1978,18 +1501,11 @@
 /obj/item/storage/backpack,
 /obj/structure/closet/secure_closet/wall{
 	dir = 1;
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	icon_door = "sec_wall";
-	icon_state = "sec_wall";
-	name = "equipment locker";
-	pixel_y = -28
-=======
 	icon_door = "red_wall";
 	icon_state = "generic_wall";
 	name = "equipment locker";
 	pixel_y = -28;
 	req_access_txt = "1"
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/item/radio/headset/headset_sec/alt,
 /obj/item/radio/headset/headset_sec/alt,
@@ -1997,20 +1513,6 @@
 /obj/item/kitchen/knife/combat/survival,
 /obj/item/kitchen/knife/combat/survival,
 /obj/item/kitchen/knife/combat/survival,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/item/storage/belt/military,
-/obj/item/storage/belt/military,
-/obj/item/storage/belt/military,
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 1
-	},
-/turf/open/floor/plasteel/tech,
-/area/ship/security/prison)
-"rZ" = (
-/obj/machinery/firealarm{
-	dir = 8;
-	pixel_x = 26
-=======
 /obj/effect/turf_decal/siding/thinplating/dark{
 	dir = 1
 	},
@@ -2028,29 +1530,11 @@
 "rF" = (
 /obj/machinery/light/small{
 	dir = 1
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer2,
 /obj/item/radio/intercom{
 	pixel_y = 28
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/decal/cleanable/dirt,
-/obj/structure/table,
-/obj/machinery/cell_charger,
-/obj/item/stock_parts/cell/high,
-/obj/item/stock_parts/cell/high,
-/obj/item/stock_parts/cell/high,
-/turf/open/floor/plasteel/tech,
-/area/ship/storage)
-"so" = (
-/turf/open/floor/carpet/royalblue,
-/area/ship/bridge)
-"su" = (
-/obj/structure/extinguisher_cabinet,
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/hallway/starboard)
-=======
 /turf/open/floor/plasteel/tech,
 /area/ship/storage)
 "rZ" = (
@@ -2081,7 +1565,6 @@
 	},
 /turf/open/floor/plasteel/patterned/cargo_one,
 /area/ship/security)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "sK" = (
 /obj/machinery/light/small{
 	dir = 8
@@ -2121,18 +1604,11 @@
 	name = "Cargo Bay Doors";
 	pixel_y = 32
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/fans/tiny,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/engine/hull,
-/area/ship/cargo)
-=======
 /obj/effect/turf_decal/borderfloor{
 	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "sM" = (
 /obj/machinery/cryopod,
 /obj/effect/decal/cleanable/dirt,
@@ -2199,42 +1675,10 @@
 	dir = 8
 	},
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
 	dir = 4
 	},
 /obj/structure/window/reinforced{
 	dir = 4
-	},
-/obj/structure/closet/secure_closet{
-	icon_door = "med_secure";
-	icon_state = "med_secure";
-	name = "field medic's locker"
-	},
-/obj/item/clothing/shoes/sneakers/white,
-/obj/item/storage/backpack/medic,
-/obj/item/clothing/head/beret/med,
-/obj/item/clothing/accessory/armband/medblue,
-/obj/item/clothing/under/rank/security/officer/minutemen,
-/obj/item/clothing/glasses/hud/health,
-/obj/item/storage/belt/medical/webbing,
-/obj/effect/turf_decal/borderfloor{
-	dir = 1
-	},
-/obj/effect/turf_decal/siding/wideplating{
-	dir = 4
-	},
-/obj/item/radio/headset/headset_medsec/alt,
-/turf/open/floor/plasteel,
-/area/ship/medical)
-"tT" = (
-/obj/machinery/door/firedoor/border_only{
-	dir = 8
-=======
-	dir = 4
-	},
-/obj/structure/window/reinforced{
-	dir = 4
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/structure/closet/secure_closet{
 	icon_door = "med_secure";
@@ -2263,21 +1707,12 @@
 /obj/machinery/light{
 	dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/turf_decal/borderfloor{
-	dir = 8
-	},
-/turf/open/floor/plasteel/patterned/grid,
-/area/ship/cargo)
-=======
 /obj/effect/turf_decal/siding/white{
 	dir = 1
 	},
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer2,
 /turf/open/floor/plasteel,
 /area/ship/hallway/starboard)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "uf" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
 	dir = 8
@@ -2285,12 +1720,6 @@
 /obj/effect/turf_decal/siding/white{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/siding/white{
-	dir = 4
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/central)
 "us" = (
@@ -2303,16 +1732,11 @@
 /obj/machinery/door/firedoor/border_only{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/security)
-=======
 /obj/effect/turf_decal/borderfloor{
 	dir = 8
 	},
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/hallway/port)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "ut" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 10
@@ -2334,22 +1758,6 @@
 /turf/open/floor/plating,
 /area/ship/engineering)
 "uL" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plasteel/patterned,
-/area/ship/cargo)
-"uM" = (
-/obj/item/radio/intercom{
-	dir = 1;
-	pixel_y = -28
-	},
-/obj/machinery/computer/security{
-	dir = 8
-	},
-/obj/effect/turf_decal/borderfloor{
-	dir = 4
-	},
-=======
 /obj/machinery/firealarm{
 	dir = 8;
 	pixel_x = 26
@@ -2381,7 +1789,6 @@
 	dry = 1
 	},
 /obj/item/clothing/mask/cigarette/pipe,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
 "uN" = (
@@ -2402,47 +1809,12 @@
 /obj/effect/turf_decal/corner/red{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/closet/secure_closet{
-	icon_door = "tac";
-	icon_state = "tac";
-	name = "boarding tools locker";
-	req_one_access_txt = "1"
-	},
-/obj/item/storage/backpack/duffelbag/syndie/x4{
-	icon_state = "duffel-sec";
-	name = "breaching charges duffel bag"
-	},
-/obj/item/door_seal,
-/obj/item/door_seal,
-/obj/item/door_seal,
-/obj/effect/turf_decal/corner/red{
-	dir = 8
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/effect/turf_decal/corner/red{
 	dir = 1
 	},
 /obj/effect/turf_decal/corner/red{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/dark,
-/area/ship/security/prison)
-"uT" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2,
-/obj/structure/sign/minutemen{
-	pixel_y = 32
-	},
-/obj/effect/turf_decal/siding/white{
-	dir = 1
-	},
-/turf/open/floor/plasteel,
-/area/ship/hallway/starboard)
-"uW" = (
-/obj/machinery/atmospherics/pipe/manifold/orange{
-=======
 /obj/machinery/power/apc/auto_name/north,
 /obj/structure/cable{
 	icon_state = "0-4"
@@ -2454,7 +1826,6 @@
 /area/ship/security/prison)
 "uT" = (
 /obj/effect/turf_decal/siding/white/corner{
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	dir = 4
 	},
 /obj/effect/turf_decal/siding/white/corner{
@@ -2468,15 +1839,12 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/lootdrop/glowstick,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/effect/turf_decal/techfloor/orange{
 	dir = 8
 	},
 /obj/machinery/atmospherics/pipe/manifold/orange/hidden{
 	dir = 4
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/engineering)
 "vm" = (
@@ -2544,10 +1912,6 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/closet/wall/orange{
 	dir = 8;
@@ -2555,21 +1919,14 @@
 	pixel_x = 28
 	},
 /obj/item/stack/sheet/mineral/plasma/twenty,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/techfloor{
-=======
 /obj/effect/turf_decal/techfloor/orange{
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	dir = 4
 	},
 /obj/effect/turf_decal/techfloor/hole/right{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
 /obj/machinery/atmospherics/pipe/simple/green/hidden/layer4,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/engineering)
 "wE" = (
@@ -2582,40 +1939,22 @@
 /obj/machinery/door/airlock/mining/glass{
 	name = "Cargo Bay"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/spawner/lootdrop/maintenance/three,
-/obj/structure/closet/crate,
-/obj/effect/turf_decal/industrial/outline,
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-=======
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/borderfloor{
 	dir = 8
 	},
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/hallway/starboard)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "wF" = (
 /obj/machinery/newscaster{
 	pixel_x = -28
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/landmark/start/assistant,
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/carpet,
 /area/ship/crew)
 "wH" = (
 /obj/effect/turf_decal/siding/thinplating/dark{
 	dir = 5
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/industrial/traffic,
-/obj/effect/turf_decal/arrows,
-/turf/open/floor/plasteel/patterned,
-/area/ship/security)
-=======
 /obj/effect/turf_decal/corner/blue/diagonal,
 /obj/structure/cable{
 	icon_state = "0-8"
@@ -2628,7 +1967,6 @@
 /obj/machinery/photocopier/faxmachine/longrange,
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "wM" = (
 /obj/machinery/atmospherics/components/binary/pump{
 	dir = 8;
@@ -2636,17 +1974,10 @@
 	},
 /obj/effect/spawner/lootdrop/maintenance,
 /obj/effect/decal/cleanable/dirt,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/techfloor/orange{
-	dir = 8
-	},
-/turf/open/floor/plasteel/tech/techmaint,
-=======
 /obj/effect/turf_decal/techfloor{
 	dir = 8
 	},
 /turf/open/floor/plasteel/tech/grid,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/engineering)
 "wN" = (
 /obj/item/radio/headset/headset_eng,
@@ -2670,12 +2001,9 @@
 /obj/effect/turf_decal/techfloor{
 	dir = 5
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/machinery/atmospherics/pipe/manifold/orange/visible{
 	dir = 4
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech/grid,
 /area/ship/engineering)
 "wY" = (
@@ -2708,14 +2036,10 @@
 	pixel_y = -24
 	},
 /obj/effect/decal/cleanable/dirt,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech,
-=======
 /obj/effect/turf_decal/industrial/loading{
 	dir = 4
 	},
 /turf/open/floor/plasteel/tech/techmaint,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/maintenance/fore)
 "xf" = (
 /obj/effect/decal/cleanable/dirt,
@@ -2741,13 +2065,6 @@
 /obj/machinery/atmospherics/pipe/simple/green/hidden/layer4{
 	dir = 6
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/item/analyzer,
-/obj/effect/turf_decal/techfloor{
-	dir = 4
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/engineering)
 "xs" = (
@@ -2759,18 +2076,6 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
 /obj/effect/turf_decal/siding/white/corner{
 	dir = 4
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	},
-/obj/effect/turf_decal/siding/white{
-	dir = 8
-	},
-/turf/open/floor/plasteel,
-/area/ship/hallway/port)
-"xO" = (
-/obj/machinery/light{
-	dir = 1
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/effect/turf_decal/siding/white{
 	dir = 8
@@ -2792,9 +2097,6 @@
 	dir = 1;
 	icon_door = "med_wall";
 	name = "medicine locker";
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	pixel_y = -28
-=======
 	pixel_y = -28;
 	req_access_txt = "5"
 	},
@@ -2816,7 +2118,6 @@
 	},
 /obj/structure/cable{
 	icon_state = "4-8"
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/item/storage/firstaid/fire{
 	pixel_x = -8;
@@ -2840,20 +2141,11 @@
 /turf/open/floor/plasteel/white,
 /area/ship/medical)
 "xX" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/sign/warning/nosmoking{
-	pixel_x = 32
-	},
-/obj/effect/decal/cleanable/oil/streak,
-/obj/item/weldingtool/mini,
-/turf/open/floor/plasteel/patterned,
-=======
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/box/corners{
 	dir = 8
 	},
 /turf/open/floor/plasteel/patterned/cargo_one,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/security)
 "yg" = (
 /obj/structure/cable{
@@ -2885,16 +2177,6 @@
 	},
 /turf/open/floor/plasteel,
 /area/ship/hallway/port)
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-"yI" = (
-/obj/effect/turf_decal/box,
-/obj/effect/decal/cleanable/dirt,
-/obj/item/tank/jetpack/carbondioxide,
-/obj/machinery/suit_storage_unit/independent/security,
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/maintenance/fore)
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "yJ" = (
 /obj/structure/tank_dispenser,
 /obj/machinery/light/small{
@@ -2931,41 +2213,17 @@
 /obj/structure/cable{
 	icon_state = "1-8"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/siding/thinplating/dark/corner{
-	dir = 8
-	},
-/obj/effect/turf_decal/siding/thinplating/dark/corner{
-	dir = 1
-	},
-/turf/open/floor/plasteel/dark,
-/area/ship/bridge)
-=======
 /obj/effect/turf_decal/siding/white{
 	dir = 4
 	},
 /obj/effect/landmark/observer_start,
 /turf/open/floor/carpet/nanoweave,
 /area/ship/hallway/central)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "yY" = (
 /obj/structure/sign/warning/docking,
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/hallway/starboard)
 "zd" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4,
-/obj/structure/chair/comfy/black{
-	dir = 4;
-	name = "Helm"
-	},
-/obj/effect/landmark/start/captain,
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 8
-	},
-/turf/open/floor/plasteel/dark,
-/area/ship/bridge)
-=======
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
@@ -2974,7 +2232,6 @@
 	},
 /turf/open/floor/carpet/nanoweave,
 /area/ship/hallway/central)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "zt" = (
 /obj/structure/table,
 /obj/machinery/microwave,
@@ -3001,21 +2258,12 @@
 /obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer4{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/item/radio/intercom{
-	dir = 1;
-	pixel_y = -28
-	},
-/turf/open/floor/plasteel/tech,
-/area/ship/maintenance/fore)
-=======
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "zL" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -3054,10 +2302,6 @@
 /obj/structure/chair{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-=======
 /obj/structure/railing{
 	dir = 8
 	},
@@ -3086,7 +2330,6 @@
 	},
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/storage)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Ah" = (
 /obj/effect/turf_decal/siding/white{
 	dir = 1
@@ -3094,13 +2337,8 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/siding/white{
-	dir = 1
-=======
 /obj/structure/cable{
 	icon_state = "2-8"
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /turf/open/floor/plasteel,
 /area/ship/hallway/port)
@@ -3120,13 +2358,8 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/siding/white{
-	dir = 1
-=======
 /obj/machinery/firealarm{
 	pixel_y = 24
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /turf/open/floor/plasteel,
 /area/ship/hallway/port)
@@ -3135,12 +2368,7 @@
 /turf/open/floor/plasteel/stairs{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/security)
-=======
 /area/ship/hallway/port)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Bf" = (
 /obj/machinery/light/small{
 	dir = 8
@@ -3162,12 +2390,6 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/siding/white{
-	dir = 4
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/central)
 "Bm" = (
@@ -3198,16 +2420,6 @@
 	dir = 1;
 	pixel_y = -24
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
-	dir = 4
-	},
-/obj/effect/turf_decal/siding/white,
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/starboard)
 "BC" = (
@@ -3226,18 +2438,6 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 10
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-"BM" = (
-/obj/structure/tank_dispenser,
-/obj/machinery/light/small{
-	dir = 1
-	},
-/obj/effect/turf_decal/industrial/hatch/yellow,
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/maintenance/fore)
-=======
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 9
 	},
@@ -3248,35 +2448,13 @@
 /obj/effect/turf_decal/box/corners,
 /turf/open/floor/plasteel/patterned/cargo_one,
 /area/ship/security)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "BN" = (
 /obj/machinery/power/apc/auto_name/north,
 /obj/structure/cable{
 	icon_state = "0-2"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/door/firedoor/border_only{
-	dir = 8
-	},
-/obj/machinery/door/firedoor/border_only{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
-	dir = 4
-	},
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/turf_decal/borderfloor{
-	dir = 8
-	},
-/turf/open/floor/plasteel/tech,
-/area/ship/storage)
-=======
 /turf/open/floor/plasteel/patterned,
 /area/ship/cargo)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Ci" = (
 /obj/structure/table/reinforced,
 /obj/machinery/door/firedoor/window,
@@ -3308,14 +2486,9 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 6
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech,
-/area/ship/storage)
-=======
 /obj/effect/decal/cleanable/oil/slippery,
 /turf/open/floor/plasteel/patterned,
 /area/ship/cargo)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Cs" = (
 /obj/effect/turf_decal/siding/white{
 	dir = 1
@@ -3323,13 +2496,6 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/turf_decal/siding/white{
-	dir = 1
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/port)
 "CE" = (
@@ -3342,18 +2508,6 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 10
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/borderfloor{
-	dir = 8
-	},
-/turf/open/floor/plasteel/patterned/grid,
-/area/ship/security)
-"CN" = (
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
-/obj/item/clothing/head/welding,
-/turf/open/floor/plasteel/patterned,
-/area/ship/security)
-=======
 /turf/open/floor/plasteel,
 /area/ship/hallway/port)
 "CN" = (
@@ -3363,7 +2517,6 @@
 	dir = 4
 	},
 /area/ship/hallway/port)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "CZ" = (
 /obj/structure/chair,
 /obj/machinery/power/apc/auto_name/east,
@@ -3386,12 +2539,9 @@
 /obj/effect/turf_decal/siding/white/corner{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/structure/sign/poster/official/report_crimes{
 	pixel_y = 32
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/starboard)
 "De" = (
@@ -3453,16 +2603,6 @@
 /obj/effect/turf_decal/borderfloor{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/box/corners,
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/security)
-"DL" = (
-/obj/item/pickaxe/mini,
-/obj/effect/turf_decal/industrial/outline,
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-=======
 /turf/open/floor/plasteel/tech,
 /area/ship/storage)
 "DL" = (
@@ -3489,7 +2629,6 @@
 	},
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/hallway/starboard)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "DT" = (
 /obj/machinery/firealarm{
 	pixel_y = 24
@@ -3524,47 +2663,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel,
 /area/ship/crew)
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-"DZ" = (
-/obj/structure/railing,
-/obj/machinery/light_switch{
-	pixel_x = -25;
-	pixel_y = 15
-	},
-/obj/item/storage/backpack,
-/obj/item/clothing/shoes/combat,
-/obj/item/clothing/under/rank/command/minutemen,
-/obj/item/clothing/suit/toggle/lawyer/minutemen,
-/obj/item/clothing/head/cowboy/sec/minutemen,
-/obj/item/clothing/glasses/sunglasses,
-/obj/item/radio/headset/heads/captain/alt,
-/obj/item/stamp/captain{
-	name = "bridge officer's rubber stamp"
-	},
-/obj/item/disk/design_disk/ammo_n762,
-/obj/item/ammo_box/n762_clip,
-/obj/item/ammo_box/n762_clip,
-/obj/item/gun/ballistic/revolver/nagant,
-/obj/structure/closet/secure_closet/wall{
-	dir = 4;
-	icon_door = "solgov_wall";
-	icon_state = "solgov_wall";
-	name = "captain's locker";
-	pixel_x = -28
-	},
-/turf/open/floor/carpet/royalblue,
-/area/ship/bridge)
-"Ee" = (
-/obj/effect/turf_decal/siding/wideplating{
-	dir = 4
-	},
-/obj/item/radio/intercom{
-	dir = 1;
-	pixel_y = -28
-	},
-/turf/open/floor/plasteel,
-/area/ship/medical)
-=======
 "Ee" = (
 /obj/effect/turf_decal/siding/wideplating{
 	dir = 4
@@ -3588,24 +2686,15 @@
 /obj/effect/landmark/start/assistant,
 /turf/open/floor/carpet/nanoweave,
 /area/ship/hallway/central)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Eh" = (
 /obj/structure/closet/secure_closet{
 	icon_state = "armory";
 	name = "lethal weapons locker";
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	req_one_access_txt = "1"
-	},
-/obj/structure/sign/minutemen{
-	pixel_y = 32
-	},
-=======
 	req_access_txt = "3"
 	},
 /obj/structure/sign/minutemen{
 	pixel_y = 32
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/item/gun/ballistic/automatic/pistol/m1911/no_mag,
 /obj/item/gun/ballistic/automatic/pistol/m1911/no_mag,
 /obj/item/gun/ballistic/automatic/pistol/m1911/no_mag,
@@ -3618,15 +2707,6 @@
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
 "En" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/light/small,
-/obj/effect/turf_decal/industrial/outline/yellow,
-/obj/effect/decal/cleanable/oil,
-/obj/effect/decal/cleanable/dirt,
-/obj/structure/reagent_dispensers/watertank,
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/storage)
-=======
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
@@ -3642,7 +2722,6 @@
 /obj/item/pickaxe/mini,
 /turf/open/floor/plasteel/patterned/cargo_one,
 /area/ship/cargo)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Eu" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4,
 /obj/effect/turf_decal/corner/bottlegreen{
@@ -3689,13 +2768,6 @@
 /obj/machinery/door/firedoor/border_only{
 	dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned,
-/area/ship/security)
-"Fm" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2,
-/obj/effect/decal/cleanable/oil/streak,
-=======
 /obj/effect/turf_decal/industrial/traffic{
 	dir = 1
 	},
@@ -3713,22 +2785,16 @@
 /obj/structure/cable{
 	icon_state = "2-8"
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/dark,
 /area/ship/security/prison)
 "Fu" = (
 /obj/structure/sign/warning/nosmoking{
 	pixel_x = 32
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/maintenance/fore)
-=======
 /obj/effect/decal/cleanable/oil/streak,
 /obj/item/weldingtool/mini,
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Fw" = (
 /obj/machinery/atmospherics/pipe/layer_manifold,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -3739,14 +2805,6 @@
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/hallway/starboard)
 "FB" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/turf_decal/arrows{
-	dir = 4
-	},
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-=======
 /obj/machinery/light_switch{
 	pixel_x = -25;
 	pixel_y = 15
@@ -3775,7 +2833,6 @@
 	},
 /turf/open/floor/carpet/royalblue,
 /area/ship/bridge)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "FE" = (
 /obj/effect/decal/cleanable/oil,
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
@@ -3806,12 +2863,8 @@
 	dir = 1;
 	icon_door = "chemical_wall";
 	name = "chemical locker";
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	pixel_y = -28
-=======
 	pixel_y = -28;
 	req_access_txt = "5"
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/item/reagent_containers/glass/bottle/morphine{
 	pixel_x = -7;
@@ -3854,18 +2907,12 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 5
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/power/apc/auto_name/south,
-/obj/structure/cable{
-	icon_state = "0-4"
-=======
 /obj/item/radio/intercom{
 	dir = 1;
 	pixel_y = -28
 	},
 /obj/structure/cable{
 	icon_state = "4-8"
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /turf/open/floor/plasteel/white,
 /area/ship/medical)
@@ -3875,25 +2922,6 @@
 	},
 /turf/open/floor/engine/hull,
 /area/ship/external)
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-"Gz" = (
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/robot_debris/old,
-/obj/structure/closet/wall{
-	dir = 8;
-	icon_door = "orange_wall";
-	name = "aviation closet";
-	pixel_x = 28
-	},
-/obj/item/clothing/head/helmet/space/pilot/random,
-/obj/item/clothing/suit/space/pilot,
-/obj/item/spacepod_equipment/lock/keyed/sec,
-/obj/item/spacepod_key/sec,
-/turf/open/floor/plasteel/patterned,
-/area/ship/security)
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "GC" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/maintenance/fore)
@@ -3901,10 +2929,6 @@
 /obj/structure/chair{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned,
-/area/ship/cargo)
-=======
 /obj/effect/landmark/start/medical_doctor,
 /turf/open/floor/carpet/nanoweave,
 /area/ship/hallway/central)
@@ -3912,7 +2936,6 @@
 /obj/structure/extinguisher_cabinet,
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/maintenance/fore)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Hj" = (
 /obj/machinery/atmospherics/components/unary/portables_connector/visible{
 	dir = 1;
@@ -3927,39 +2950,15 @@
 /turf/open/floor/plasteel/tech/grid,
 /area/ship/engineering)
 "Hm" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/door/firedoor/border_only,
-/obj/machinery/light{
-	dir = 4
-	},
-/obj/effect/turf_decal/industrial/traffic,
-/obj/effect/turf_decal/arrows,
-/turf/open/floor/plasteel/patterned,
-/area/ship/security)
-"Hp" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
-=======
 /obj/structure/bed,
 /obj/item/bedsheet/blue,
 /obj/structure/curtain/bounty,
 /obj/effect/turf_decal/borderfloor{
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	dir = 1
 	},
 /obj/machinery/turretid{
 	pixel_y = 32
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/chair/comfy/black{
-	dir = 4;
-	name = "Operations"
-	},
-/obj/effect/landmark/start/head_of_personnel,
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 8
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
 "Hp" = (
@@ -3984,14 +2983,6 @@
 /turf/open/floor/plasteel/tech,
 /area/ship/storage)
 "Ih" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/extinguisher_cabinet,
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/maintenance/fore)
-"Ip" = (
-/obj/effect/spawner/structure/window/plasma/reinforced/plastitanium,
-/turf/open/floor/plating,
-=======
 /obj/effect/decal/cleanable/oil/streak,
 /obj/effect/turf_decal/box/corners{
 	dir = 8
@@ -4032,7 +3023,6 @@
 	name = "defunct ship turret"
 	},
 /turf/closed/wall/mineral/plastitanium,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/storage)
 "Ix" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
@@ -4043,13 +3033,10 @@
 /obj/effect/turf_decal/siding/white{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/machinery/airalarm/all_access{
 	dir = 4;
 	pixel_x = -24
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/central)
 "Iy" = (
@@ -4068,23 +3055,11 @@
 "Je" = (
 /obj/structure{
 	desc = "Looks menacing, but it's rusted in place.";
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	dir = 10;
-=======
 	dir = 5;
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	icon = 'icons/obj/turrets.dmi';
 	icon_state = "syndie_off";
 	name = "defunct ship turret"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/cargo)
-"Jo" = (
-/obj/effect/turf_decal/box,
-/obj/item/tank/jetpack/carbondioxide,
-/obj/machinery/suit_storage_unit/independent/security,
-=======
 /turf/closed/wall/mineral/plastitanium,
 /area/ship/maintenance/fore)
 "Jm" = (
@@ -4092,7 +3067,6 @@
 /obj/item/tank/jetpack/carbondioxide,
 /obj/item/clothing/suit/space/hardsuit/security/independent,
 /obj/machinery/suit_storage_unit/inherit,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/maintenance/fore)
 "Jo" = (
@@ -4155,12 +3129,7 @@
 /turf/open/floor/plasteel/stairs{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/security)
-=======
 /area/ship/hallway/port)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Kn" = (
 /obj/structure/bed,
 /obj/structure/curtain/bounty,
@@ -4176,13 +3145,6 @@
 	id = "Cell 1";
 	pixel_y = -32
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/turf_decal/siding/thinplating/dark/corner{
-	dir = 4
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech,
 /area/ship/security/prison)
 "KS" = (
@@ -4225,45 +3187,13 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/door/airlock/command/glass{
-	name = "Bridge"
-	},
-/obj/effect/turf_decal/borderfloor{
-	dir = 8
-	},
-/obj/effect/turf_decal/corner/blue,
-/obj/effect/turf_decal/corner/blue{
-	dir = 4
-	},
-/turf/open/floor/plasteel/dark,
-=======
 /turf/open/floor/carpet/royalblue,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/bridge)
 "Li" = (
 /obj/structure/cable{
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	icon_state = "1-2"
-	},
-/obj/effect/landmark/start/security_officer,
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 4
-	},
-/turf/open/floor/plasteel/tech,
-/area/ship/security/prison)
-"KX" = (
-/obj/structure/sign/poster/contraband/hacking_guide,
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/engineering)
-"Lf" = (
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plasteel/patterned/cargo_one,
-=======
 	icon_state = "2-4"
 	},
 /turf/open/floor/plasteel/patterned,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/cargo)
 "Lp" = (
 /obj/structure/cable{
@@ -4272,14 +3202,6 @@
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech,
-/area/ship/storage)
-"Lp" = (
-/obj/structure/sign/number/nine,
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/cargo)
-=======
 /obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer2,
 /obj/machinery/navbeacon/wayfinding{
 	codes_txt = "patrol;next_patrol=cargo";
@@ -4287,7 +3209,6 @@
 	},
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Ls" = (
 /obj/machinery/door/airlock/maintenance/external/glass{
 	name = "EVA Suit Storage"
@@ -4301,10 +3222,6 @@
 /obj/machinery/door/firedoor/border_only{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-=======
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 4
 	},
@@ -4316,7 +3233,6 @@
 	},
 /turf/open/floor/plasteel/tech,
 /area/ship/maintenance/fore)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Lv" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -4325,13 +3241,7 @@
 	dir = 4
 	},
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/techfloor{
-	dir = 4
-	},
-=======
 /obj/machinery/atmospherics/pipe/simple/green/hidden/layer4,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/engineering)
 "Lz" = (
@@ -4355,15 +3265,7 @@
 /obj/structure/cable{
 	icon_state = "0-4"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/landmark/start/security_officer,
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 4
-	},
-/turf/open/floor/plasteel/tech,
-=======
 /turf/open/floor/plating,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/security/prison)
 "LK" = (
 /obj/structure/chair/office{
@@ -4375,10 +3277,6 @@
 	pixel_x = 24;
 	pixel_y = -24
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/landmark/start/warden,
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/effect/turf_decal/corner/red,
 /obj/effect/turf_decal/corner/red{
 	dir = 4
@@ -4408,11 +3306,6 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/power/apc/auto_name/west,
-/turf/open/floor/plasteel/patterned,
-/area/ship/cargo)
-=======
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 4
 	},
@@ -4422,7 +3315,6 @@
 /obj/item/crowbar/red,
 /turf/open/floor/plasteel/tech,
 /area/ship/maintenance/fore)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Mp" = (
 /obj/machinery/power/terminal{
 	dir = 8
@@ -4465,22 +3357,6 @@
 /obj/machinery/navbeacon/wayfinding{
 	location = "Engineering"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/techfloor{
-	dir = 4
-	},
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/engineering)
-"MT" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
-	dir = 1
-	},
-/obj/effect/decal/cleanable/oil/streak,
-/obj/structure/sign/minutemen{
-	pixel_y = -32
-	},
-/obj/effect/turf_decal/siding/white,
-=======
 /obj/effect/turf_decal/techfloor/orange{
 	dir = 4
 	},
@@ -4506,7 +3382,6 @@
 /obj/effect/turf_decal/siding/white/corner{
 	dir = 8
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/port)
 "Nb" = (
@@ -4518,29 +3393,12 @@
 	dir = 1
 	},
 /obj/effect/turf_decal/industrial/loading,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel,
-/area/ship/medical)
-"Nf" = (
-/obj/structure/cable{
-	icon_state = "4-8"
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/turf_decal/siding/white,
-/turf/open/floor/plasteel,
-/area/ship/hallway/starboard)
-=======
 /obj/machinery/airalarm/all_access{
 	dir = 1;
 	pixel_y = -24
 	},
 /turf/open/floor/plasteel,
 /area/ship/medical)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Nu" = (
 /obj/structure/table/reinforced,
 /obj/structure/railing{
@@ -4549,18 +3407,6 @@
 /obj/effect/turf_decal/siding/thinplating/dark{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/item/clothing/mask/cigarette/pipe,
-/obj/item/gps{
-	gpstag = "NTREC1";
-	pixel_x = -9;
-	pixel_y = 7
-	},
-/obj/effect/turf_decal/borderfloor{
-	dir = 4
-	},
-/obj/item/areaeditor/shuttle,
-=======
 /obj/effect/turf_decal/corner/blue/diagonal,
 /obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer2{
 	dir = 1
@@ -4569,7 +3415,6 @@
 /obj/item/radio/intercom{
 	dir = 4
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/item/megaphone/command,
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
@@ -4580,13 +3425,9 @@
 /obj/structure/chair/office/light{
 	dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/landmark/start/medical_doctor,
-=======
 /obj/structure/sign/poster/official/moth/epi{
 	pixel_y = -32
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/medical)
 "NO" = (
@@ -4605,13 +3446,6 @@
 	icon_door = "sec_wall";
 	icon_state = "sec_wall";
 	name = "armor locker";
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	pixel_y = -28
-	},
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 1
-	},
-=======
 	pixel_y = -28;
 	req_access_txt = "1"
 	},
@@ -4630,19 +3464,13 @@
 /obj/structure/cable{
 	icon_state = "1-4"
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech,
 /area/ship/security/prison)
 "NS" = (
 /obj/effect/decal/cleanable/dirt,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/number/two{
-	dir = 4
-=======
 /obj/effect/turf_decal/corner/grey/diagonal,
 /obj/structure/sign/poster/official/obey{
 	pixel_y = 32
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/effect/turf_decal/corner/grey/diagonal,
 /obj/effect/turf_decal/siding/wideplating/dark{
@@ -4694,11 +3522,7 @@
 /obj/effect/turf_decal/industrial/traffic{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned,
-=======
 /turf/open/floor/plasteel/patterned/cargo_one,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/cargo)
 "PX" = (
 /turf/template_noop,
@@ -4722,17 +3546,12 @@
 	dir = 1;
 	pixel_y = -24
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned,
-/area/ship/cargo)
-=======
 /obj/structure/bed,
 /obj/item/bedsheet/blue,
 /obj/structure/curtain/bounty,
 /obj/effect/turf_decal/borderfloor,
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Qy" = (
 /obj/structure/chair,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
@@ -4757,37 +3576,6 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 5
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/engineering)
-"QJ" = (
-/obj/structure/filingcabinet/chestdrawer,
-/obj/machinery/airalarm/all_access{
-	dir = 1;
-	pixel_y = -24
-	},
-/turf/open/floor/carpet/royalblue,
-/area/ship/bridge)
-"QS" = (
-/obj/effect/turf_decal/borderfloor{
-	dir = 1
-	},
-/obj/structure/table,
-/obj/item/storage/box/bodybags{
-	pixel_x = 7;
-	pixel_y = 13
-	},
-/obj/item/storage/box/syringes{
-	pixel_x = 7;
-	pixel_y = 4
-	},
-/obj/item/storage/box/gloves{
-	pixel_x = -9;
-	pixel_y = 10
-	},
-/obj/item/reagent_containers/glass/bottle/formaldehyde{
-	pixel_x = -6
-=======
 /obj/machinery/atmospherics/pipe/simple/green/hidden/layer4{
 	dir = 5
 	},
@@ -4803,7 +3591,6 @@
 "QS" = (
 /obj/effect/turf_decal/borderfloor{
 	dir = 1
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/structure/table,
 /obj/item/storage/box/bodybags{
@@ -4837,19 +3624,12 @@
 /turf/open/floor/plasteel/mono,
 /area/ship/crew)
 "Rf" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/table/reinforced,
-/obj/machinery/photocopier/faxmachine/longrange,
-/turf/open/floor/carpet/royalblue,
-/area/ship/bridge)
-=======
 /obj/structure/chair{
 	dir = 4
 	},
 /obj/effect/landmark/start/security_officer,
 /turf/open/floor/carpet/nanoweave,
 /area/ship/hallway/central)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Rj" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -4861,8 +3641,6 @@
 	},
 /turf/open/floor/plasteel/white,
 /area/ship/medical)
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 "RF" = (
 /obj/structure/chair{
 	dir = 4
@@ -4876,7 +3654,6 @@
 	},
 /turf/open/floor/carpet/nanoweave,
 /area/ship/hallway/central)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "RI" = (
 /obj/structure/cable{
 	icon_state = "1-8"
@@ -4884,38 +3661,24 @@
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 10
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-=======
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
 /turf/open/floor/plasteel/tech,
 /area/ship/maintenance/fore)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "RM" = (
 /obj/machinery/atmospherics/components/binary/pump{
 	dir = 8;
 	name = "engine fuel pump"
 	},
 /obj/effect/decal/cleanable/dirt,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/techfloor/orange{
-=======
 /obj/effect/turf_decal/techfloor{
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	dir = 8
 	},
 /obj/effect/turf_decal/techfloor/hole/right{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech/techmaint,
-=======
 /turf/open/floor/plasteel/tech/grid,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/engineering)
 "RS" = (
 /obj/structure/cable{
@@ -4990,20 +3753,6 @@
 /turf/closed/wall/mineral/plastitanium,
 /area/ship/storage)
 "Sk" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/sign/poster/official/report_crimes,
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-/area/ship/security/prison)
-"Sl" = (
-/obj/structure{
-	desc = "Looks menacing, but it's rusted in place.";
-	dir = 4;
-	icon = 'icons/obj/turrets.dmi';
-	icon_state = "syndie_off";
-	name = "defunct ship turret"
-	},
-/turf/closed/wall/mineral/plastitanium,
-=======
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
@@ -5024,7 +3773,6 @@
 	},
 /obj/structure/fans/tiny,
 /turf/open/floor/plating,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/storage)
 "Sv" = (
 /obj/structure/cable{
@@ -5087,34 +3835,11 @@
 /area/ship/hallway/port)
 "SJ" = (
 /obj/effect/decal/cleanable/dirt,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/corner/grey/diagonal,
-/turf/open/floor/plasteel/dark,
-/area/ship/security/prison)
-"SP" = (
-/obj/structure/cable{
-	icon_state = "4-8"
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
-	dir = 6
-	},
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
-	dir = 6
-	},
-/obj/effect/decal/cleanable/oil/slippery,
-/obj/effect/turf_decal/industrial/outline,
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-"SR" = (
-/obj/structure/cable{
-	icon_state = "4-8"
-=======
 /obj/machinery/light/small{
 	dir = 8
 	},
 /obj/structure/closet/secure_closet/brig{
 	id = "Cell 1"
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /turf/open/floor/plasteel/tech,
 /area/ship/security/prison)
@@ -5123,19 +3848,9 @@
 /turf/open/floor/plasteel/stairs{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer2{
-	dir = 1
-	},
-/obj/machinery/navbeacon/wayfinding{
-	codes_txt = "patrol;next_patrol=dorms";
-	location = "cargo"
-	},
-=======
 /area/ship/hallway/starboard)
 "SR" = (
 /obj/effect/decal/cleanable/dirt,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/patterned,
 /area/ship/cargo)
 "SU" = (
@@ -5150,41 +3865,12 @@
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/hallway/port)
 "SZ" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/sign/poster/retro/we_watch{
-	pixel_y = -32
-	},
-/obj/structure/table/reinforced,
-/obj/item/folder/blue{
-	pixel_x = 10;
-	pixel_y = 5
-	},
-/obj/item/folder/blue{
-	pixel_x = -1;
-	pixel_y = 8
-	},
-/obj/item/paper_bin{
-	pixel_x = -5;
-	pixel_y = -5
-	},
-/obj/item/pen/fountain,
-/obj/item/pen/fountain{
-	pixel_x = 5
-	},
-/obj/item/stack/spacecash/c1000,
-/obj/item/stack/spacecash/c1000,
-/obj/item/stack/spacecash/c1000,
-/obj/item/stack/spacecash/c1000,
-/turf/open/floor/carpet/royalblue,
-/area/ship/bridge)
-=======
 /obj/structure/chair{
 	dir = 4
 	},
 /obj/effect/landmark/start/station_engineer,
 /turf/open/floor/carpet/nanoweave,
 /area/ship/hallway/central)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Ta" = (
 /obj/machinery/firealarm{
 	dir = 8;
@@ -5193,16 +3879,6 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 10
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech/grid,
-/area/ship/maintenance/fore)
-"Tg" = (
-/obj/item/radio/intercom{
-	dir = 1;
-	pixel_y = -28
-	},
-/obj/effect/turf_decal/siding/white,
-=======
 /obj/structure/sign/poster/official/safety_internals{
 	pixel_y = 32
 	},
@@ -5213,7 +3889,6 @@
 /obj/effect/turf_decal/siding/white,
 /obj/machinery/power/apc/auto_name/south,
 /obj/structure/cable,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/port)
 "To" = (
@@ -5290,15 +3965,6 @@
 	},
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/engineering)
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-"TH" = (
-/obj/machinery/power/apc/auto_name/south,
-/obj/structure/cable,
-/obj/effect/turf_decal/siding/white,
-/turf/open/floor/plasteel,
-/area/ship/hallway/port)
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "TT" = (
 /obj/structure/table,
 /obj/item/storage/backpack/duffelbag/med/surgery{
@@ -5313,27 +3979,10 @@
 /obj/machinery/defibrillator_mount/loaded{
 	pixel_y = 32
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/item/clothing/gloves/color/latex/nitrile,
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/white,
 /area/ship/medical)
 "TX" = (
 /obj/effect/turf_decal/siding/white{
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-	dir = 4
-	},
-/turf/open/floor/plasteel,
-/area/ship/hallway/central)
-"Ue" = (
-/obj/machinery/light,
-/obj/structure/sign/poster/official/safety_report{
-	pixel_y = -32
-	},
-/turf/open/floor/plasteel/stairs{
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	dir = 4
 	},
 /turf/open/floor/plasteel,
@@ -5343,20 +3992,6 @@
 /turf/open/floor/plasteel,
 /area/ship/hallway/port)
 "Ur" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/light,
-/obj/machinery/firealarm{
-	dir = 8;
-	pixel_x = 26
-	},
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
-	dir = 1
-	},
-/turf/open/floor/plasteel/patterned,
-/area/ship/cargo)
-"UD" = (
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/machinery/airalarm/all_access{
 	dir = 4;
 	pixel_x = -24
@@ -5375,12 +4010,9 @@
 /obj/effect/turf_decal/siding/white{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/machinery/camera/autoname{
 	dir = 5
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/central)
 "UF" = (
@@ -5405,11 +4037,7 @@
 /area/ship/hallway/starboard)
 "UO" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/area/ship/cargo)
-=======
 /area/ship/hallway/central)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "US" = (
 /obj/structure/table/reinforced,
 /obj/structure/railing{
@@ -5431,12 +4059,6 @@
 /obj/item/pen/fountain{
 	pixel_x = 5
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/borderfloor{
-	dir = 4
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
 "UU" = (
@@ -5446,12 +4068,6 @@
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/siding/white{
-	dir = 4
-	},
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel,
 /area/ship/hallway/central)
 "Vj" = (
@@ -5466,19 +4082,8 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/door/airlock/mining/glass{
-	name = "Pod Bay"
-	},
-/obj/effect/turf_decal/borderfloor{
-	dir = 8
-	},
-/turf/open/floor/plasteel/patterned/grid,
-/area/ship/security)
-=======
 /turf/open/floor/plasteel/patterned/cargo_one,
 /area/ship/cargo)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "VD" = (
 /obj/structure{
 	desc = "Looks menacing, but it's rusted in place.";
@@ -5490,48 +4095,8 @@
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/engineering)
 "VF" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/structure/cable{
-	icon_state = "0-2"
-	},
-/obj/machinery/power/apc/auto_name/north,
-/obj/effect/turf_decal/industrial/outline/yellow,
-/obj/structure/closet/crate{
-	name = "emergency space suit crate"
-	},
-/obj/item/radio,
-/obj/item/radio,
-/obj/item/radio,
-/obj/item/clothing/suit/space/eva,
-/obj/item/clothing/suit/space/eva,
-/obj/item/clothing/suit/space/eva,
-/obj/item/clothing/head/helmet/space/eva,
-/obj/item/clothing/head/helmet/space/eva,
-/obj/item/clothing/head/helmet/space/eva,
-/obj/item/clothing/mask/breath,
-/obj/item/clothing/mask/breath,
-/obj/item/clothing/mask/breath,
-/obj/item/tank/internals/oxygen/red,
-/obj/item/tank/internals/oxygen/red,
-/obj/item/tank/internals/oxygen/red,
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/maintenance/fore)
-"Wc" = (
-/obj/machinery/door/firedoor/window,
-/obj/machinery/door/poddoor/shutters/preopen{
-	id = "space_cops_bridge"
-	},
-/obj/effect/spawner/structure/window/plasma/reinforced/plastitanium,
-/turf/open/floor/plating,
-/area/ship/bridge)
-"Wh" = (
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
-/obj/item/stack/cable_coil/blue,
-/obj/item/screwdriver,
-=======
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
 /obj/item/clothing/head/welding,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
 "Wc" = (
@@ -5553,10 +4118,6 @@
 /turf/open/floor/plasteel/stairs{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech,
-/area/ship/storage)
-=======
 /area/ship/hallway/port)
 "Wl" = (
 /obj/structure/cable{
@@ -5566,7 +4127,6 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
 /turf/open/floor/plasteel/patterned,
 /area/ship/cargo)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Wm" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/storage)
@@ -5582,18 +4142,12 @@
 	dir = 8;
 	pixel_x = 28
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/techfloor{
-	dir = 4
-	},
-=======
 /obj/effect/turf_decal/techfloor/orange{
 	dir = 4
 	},
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 9
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/engineering)
 "Wt" = (
@@ -5619,22 +4173,8 @@
 /obj/effect/turf_decal/techfloor/orange{
 	dir = 4
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/techfloor{
-	dir = 4
-	},
 /obj/effect/turf_decal/techfloor/hole{
 	dir = 4
-	},
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/engineering)
-"WY" = (
-/obj/structure/cable{
-	icon_state = "4-8"
-=======
-/obj/effect/turf_decal/techfloor/hole{
-	dir = 4
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /obj/machinery/atmospherics/pipe/manifold/supply/visible/layer2{
 	dir = 4
@@ -5649,15 +4189,12 @@
 	name = "Cargo Bay Doors";
 	pixel_y = 24
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-=======
 /obj/effect/turf_decal/industrial/traffic{
 	dir = 8
 	},
 /turf/open/floor/plasteel/patterned/cargo_one,
 /area/ship/cargo)
 "WY" = (
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
 "Xb" = (
@@ -5668,31 +4205,18 @@
 	id = "space_cops_bay";
 	name = "cargo bay blast door"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech,
-/area/ship/storage)
-=======
 /obj/structure/fans/tiny,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/engine/hull,
 /area/ship/cargo)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Xr" = (
 /obj/effect/decal/cleanable/oil/streak,
 /obj/machinery/power/apc/auto_name/south,
 /obj/structure/cable{
 	icon_state = "0-4"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/borderfloor{
-	dir = 8
-	},
-/turf/open/floor/plasteel/tech,
-/area/ship/maintenance/fore)
-=======
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "XB" = (
 /obj/structure/table,
 /obj/machinery/light,
@@ -5728,22 +4252,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/carpet,
 /area/ship/crew)
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-"XU" = (
-/obj/structure/cable{
-	icon_state = "4-8"
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
-	dir = 4
-	},
-/obj/item/crowbar/red,
-/turf/open/floor/plasteel/tech,
-/area/ship/maintenance/fore)
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "XY" = (
 /obj/effect/turf_decal/siding/thinplating/dark/corner{
 	dir = 4
@@ -5775,48 +4283,18 @@
 /turf/open/floor/plasteel/mono,
 /area/ship/crew)
 "YA" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/industrial/outline/yellow,
-/obj/structure/sign/warning/nosmoking{
-	pixel_y = 32
-	},
-/obj/item/stack/sheet/metal/fifty,
-/obj/item/stack/sheet/glass/fifty,
-/obj/structure/closet/crate,
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/storage)
-=======
 /turf/closed/wall/mineral/plastitanium,
 /area/ship/bridge)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "YD" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/hallway/starboard)
 "YL" = (
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/light{
-	dir = 1
-	},
-/obj/machinery/modular_computer/console/preset/command,
-/obj/effect/turf_decal/borderfloor{
-	dir = 1
-	},
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 8
-	},
-/obj/machinery/turretid{
-	pixel_y = 32
-	},
-/turf/open/floor/plasteel/dark,
-/area/ship/bridge)
-=======
 /obj/structure/cable{
 	icon_state = "2-4"
 	},
 /obj/effect/turf_decal/siding/white/corner,
 /turf/open/floor/carpet/nanoweave,
 /area/ship/hallway/central)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "YV" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
 	dir = 1
@@ -5825,11 +4303,6 @@
 	dir = 4;
 	name = "Operations"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/patterned/cargo_one,
-/area/ship/cargo)
-"Za" = (
-=======
 /turf/open/floor/carpet/royalblue,
 /area/ship/bridge)
 "YY" = (
@@ -5837,42 +4310,15 @@
 	name = "Bridge";
 	req_access_txt = "19"
 	},
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech,
-/area/ship/maintenance/fore)
-"Zf" = (
-/obj/machinery/power/apc/auto_name/west,
-/obj/structure/cable{
-	icon_state = "0-4"
-=======
 /obj/machinery/light{
 	dir = 1
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	},
 /turf/open/floor/plasteel/stairs{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plasteel/patterned,
-/area/ship/security)
-"Zg" = (
-/obj/machinery/power/apc/auto_name/south,
-/obj/structure/cable,
-/obj/machinery/computer/crew{
-	dir = 1
-	},
-/obj/effect/turf_decal/borderfloor,
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 8
-	},
-/turf/open/floor/plasteel/dark,
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/bridge)
 "Za" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
@@ -5905,20 +4351,12 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/borderfloor{
-	dir = 8
-	},
-/turf/open/floor/plasteel/patterned/grid,
-/area/ship/cargo)
-=======
 /obj/structure/sign/minutemen{
 	pixel_y = -32
 	},
 /obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer2,
 /turf/open/floor/plasteel,
 /area/ship/hallway/starboard)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Zq" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -5936,29 +4374,13 @@
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 5
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/box,
-/obj/item/tank/jetpack/carbondioxide,
-/obj/machinery/suit_storage_unit/independent/security,
-/turf/open/floor/plasteel/tech/techmaint,
-/area/ship/maintenance/fore)
-=======
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "Zy" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
 	dir = 1
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/landmark/start/assistant,
-/turf/open/floor/carpet,
-/area/ship/crew)
-"ZK" = (
-/obj/structure/sign/poster/official/obey,
-/turf/closed/wall/mineral/plastitanium/nodiagonal,
-=======
 /turf/open/floor/carpet,
 /area/ship/crew)
 "ZK" = (
@@ -5969,7 +4391,6 @@
 /obj/effect/turf_decal/corner/grey/diagonal,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/dark,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/security/prison)
 "ZL" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
@@ -5981,45 +4402,24 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/machinery/navbeacon/wayfinding/bridge{
-	name = "navigation beacon"
-	},
-/obj/effect/turf_decal/siding/thinplating/dark{
-	dir = 1
-	},
-/obj/effect/turf_decal/siding/thinplating/dark,
-/turf/open/floor/plasteel/dark,
-/area/ship/bridge)
-=======
 /turf/open/floor/carpet/nanoweave,
 /area/ship/hallway/central)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "ZM" = (
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech,
-/area/ship/maintenance/fore)
-=======
 /turf/open/floor/plasteel/patterned,
 /area/ship/security)
 "ZP" = (
 /obj/structure/sign/number/five,
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/cargo)
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 "ZS" = (
 /obj/machinery/atmospherics/components/binary/pump{
 	dir = 8;
 	name = "engine fuel pump"
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/obj/effect/turf_decal/techfloor/orange{
-=======
 /obj/effect/turf_decal/techfloor{
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 	dir = 8
 	},
 /obj/effect/turf_decal/techfloor/hole/right{
@@ -6028,11 +4428,7 @@
 /obj/effect/turf_decal/techfloor/hole{
 	dir = 8
 	},
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-/turf/open/floor/plasteel/tech/techmaint,
-=======
 /turf/open/floor/plasteel/tech/grid,
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 /area/ship/engineering)
 
 (1,1,1) = {"
@@ -6340,11 +4736,7 @@ Bf
 Fw
 "}
 (17,1,1) = {"
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-ej
-=======
 bC
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 ej
 ej
 ym
@@ -6358,11 +4750,6 @@ Ix
 rf
 Sz
 Dp
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-YD
-YD
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 YD
 YD
 Ac
@@ -6432,11 +4819,6 @@ Cs
 Ue
 Zf
 Rf
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-so
-ZL
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 so
 ZL
 GJ
@@ -6469,13 +4851,8 @@ PX
 "}
 (23,1,1) = {"
 PX
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-em
-ck
-=======
 PX
 ej
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 CE
 Vj
 Jv
@@ -6487,22 +4864,13 @@ sY
 Jv
 tT
 Zn
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-UO
-Je
-=======
 YD
 PX
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 PX
 "}
 (24,1,1) = {"
 PX
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-bC
-=======
 PX
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 pv
 CN
 Wh
@@ -6516,11 +4884,7 @@ Jv
 cD
 PK
 hD
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-Lp
-=======
 PX
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 PX
 "}
 (25,1,1) = {"
@@ -6535,11 +4899,7 @@ ov
 jQ
 eg
 eo
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-uL
-=======
 Jv
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 SP
 oH
 EH
@@ -6577,11 +4937,7 @@ FB
 Lf
 he
 Qu
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-uL
-=======
 Jv
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 SR
 aO
 Ur
@@ -6591,22 +4947,6 @@ PX
 (28,1,1) = {"
 PX
 hR
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-GC
-GC
-Xr
-GC
-GC
-zS
-BJ
-YV
-Wm
-yJ
-BN
-Ip
-Wm
-eR
-=======
 pC
 xX
 Xr
@@ -6621,28 +4961,10 @@ BN
 Ip
 oD
 mt
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 PX
 "}
 (29,1,1) = {"
 PX
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-PX
-GC
-BM
-XU
-yI
-GC
-sL
-hs
-hs
-Wm
-YA
-Xb
-En
-Wm
-PX
-=======
 bI
 qj
 BM
@@ -6658,28 +4980,10 @@ Xb
 En
 JQ
 ca
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 PX
 "}
 (30,1,1) = {"
 PX
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-PX
-GC
-VF
-Za
-Zu
-GC
-vn
-vn
-vn
-Wm
-hv
-Li
-ko
-Wm
-PX
-=======
 ck
 rx
 VF
@@ -6695,7 +4999,6 @@ Li
 ko
 lR
 ky
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 PX
 "}
 (31,1,1) = {"
@@ -6705,9 +5008,6 @@ su
 Ih
 ZM
 Jo
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-GC
-=======
 Yl
 Vp
 De
@@ -6737,7 +5037,6 @@ rZ
 JF
 fO
 ZP
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 PX
 "}
 (33,1,1) = {"
@@ -6758,11 +5057,6 @@ Sl
 th
 mt
 PX
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-Wm
-gv
-Cp
-=======
 "}
 (34,1,1) = {"
 PX
@@ -6798,7 +5092,6 @@ Wm
 FN
 HK
 rp
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 Wm
 eR
 PX
@@ -6822,16 +5115,9 @@ jc
 Wm
 PX
 PX
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-GC
-wY
-zD
-GC
-=======
 "}
 (37,1,1) = {"
 PX
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 PX
 nE
 GN
@@ -6840,13 +5126,6 @@ Jm
 GC
 PX
 PX
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-Wm
-Wl
-rZ
-Wm
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 PX
 Wm
 LM
@@ -6867,21 +5146,9 @@ GC
 PX
 PX
 PX
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-qc
-GC
-Fu
-GC
-cg
-cg
-cg
-Wm
-pA
-=======
 Wm
 rF
 yN
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 Wm
 Sl
 PX
@@ -6905,21 +5172,11 @@ Wm
 Iw
 PX
 PX
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-GC
-Ta
-GC
-=======
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 PX
 "}
 (40,1,1) = {"
 PX
 PX
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-Wm
-bD
-=======
 PX
 PX
 GC
@@ -6930,7 +5187,6 @@ PX
 PX
 Wm
 pj
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 Wm
 PX
 PX
@@ -6943,11 +5199,7 @@ PX
 PX
 PX
 GC
-<<<<<<< HEAD:_maps/shuttles/shiptest/minutemen_carina.dmm
-oC
-=======
 da
->>>>>>> fire:_maps/shuttles/shiptest/minutemen_carina.dmm
 GC
 PX
 PX

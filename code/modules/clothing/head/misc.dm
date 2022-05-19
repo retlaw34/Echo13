@@ -539,8 +539,6 @@
 	name = "maid headband"
 	desc = "Just like from one of those chinese cartoons!"
 	icon_state = "maid_headband"
-<<<<<<< HEAD
-=======
 
 /obj/item/clothing/head/cowboy
 	name = "cowboy hat"
@@ -556,4 +554,3 @@
 	desc = "You feel ashamed about what you had to do to get this hat"
 	icon_state = "cowboy"
 	item_state = "cowboy"
->>>>>>> fire

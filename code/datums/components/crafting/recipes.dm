@@ -906,8 +906,6 @@
 				/obj/item/stack/sheet/sinew = 3)
 	category = CAT_PRIMAL
 
-<<<<<<< HEAD
-=======
 /datum/crafting_recipe/splint
 	name = "Makeshift Splint"
 	reqs = list(
@@ -1079,7 +1077,6 @@
 	)
 	category = CAT_CLOTHING
 
->>>>>>> fire
 /datum/crafting_recipe/umbrellared
 	name = "Red Drink Umbrella"
 	result = /obj/item/garnish/umbrellared
@@ -1109,8 +1106,6 @@
 		/obj/item/paper = 1,
 		/obj/item/stack/rods = 1)
 	category = CAT_DRINK
-<<<<<<< HEAD
-=======
 
 /datum/crafting_recipe/ash_garnish
 	name = "Ash Garnish"
@@ -1125,4 +1120,3 @@
 	reqs = list(/datum/reagent/consumable/sodiumchloride = 10)
 	time = 5
 	category = CAT_DRINK
->>>>>>> fire

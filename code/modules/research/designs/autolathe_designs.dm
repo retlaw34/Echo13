@@ -1148,8 +1148,6 @@
 	build_path = /obj/item/stack/tape/industrial
 	category = list("initial", "Misc")
 
-<<<<<<< HEAD
-=======
 /datum/design/floor_painter
 	name = "Floor Painter"
 	id = "floor_painter"
@@ -1174,7 +1172,6 @@
 	build_path = /obj/item/circuitboard/machine/pipedispenser
 	category = list("initial", "Machinery")
 
->>>>>>> fire
 /datum/design/control
 	name = "Blast Door Controller"
 	id = "blast"
