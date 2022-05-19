@@ -78,6 +78,10 @@
 	icon_state = "platform"
 	desc = "A platform for engine components."
 	density = TRUE
+<<<<<<< HEAD
+=======
+	anchored = TRUE
+>>>>>>> fire
 	pass_flags_self = PASSPLATFORM
 
 /obj/structure/shuttle/platform/corner

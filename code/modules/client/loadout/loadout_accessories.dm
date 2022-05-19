@@ -82,6 +82,14 @@
 	display_name = "maid arm covers"
 	path = /obj/item/clothing/gloves/maid
 	slot = ITEM_SLOT_GLOVES
+<<<<<<< HEAD
+=======
+
+/datum/gear/accessory/gloves/maid
+	display_name = "maid arm covers"
+	path = /obj/item/clothing/gloves/maid
+	slot = ITEM_SLOT_GLOVES
+>>>>>>> fire
 
 /datum/gear/accessory/tiki
 	display_name = "tiki mask"
