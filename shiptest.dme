@@ -111,11 +111,8 @@
 #include "code\__DEFINES\skills.dm"
 #include "code\__DEFINES\sound.dm"
 #include "code\__DEFINES\spaceman_dmm.dm"
-<<<<<<< HEAD
-=======
 #include "code\__DEFINES\species.dm"
 #include "code\__DEFINES\species_clothing_defines.dm"
->>>>>>> fire
 #include "code\__DEFINES\speech_controller.dm"
 #include "code\__DEFINES\stat.dm"
 #include "code\__DEFINES\stat_tracking.dm"
@@ -1290,10 +1287,7 @@
 #include "code\game\objects\structures\petrified_statue.dm"
 #include "code\game\objects\structures\plasticflaps.dm"
 #include "code\game\objects\structures\poddoor_assembly.dm"
-<<<<<<< HEAD
-=======
 #include "code\game\objects\structures\radioactive.dm"
->>>>>>> fire
 #include "code\game\objects\structures\railings.dm"
 #include "code\game\objects\structures\reflector.dm"
 #include "code\game\objects\structures\safe.dm"
