@@ -2580,9 +2580,7 @@
 /datum/sprite_accessory/kepori_body_feathers/none
 	name = "None"
 
-<<<<<<< HEAD
 //ENDWS
-=======
 /datum/sprite_accessory/moth_wings/brown
 	name = "Brown"
 	icon_state = "brown"
@@ -2722,4 +2720,3 @@
 /datum/sprite_accessory/vox_neck_quills/ruffhawk
 	name = "Ruffhawk"
 	icon_state = "ruffhawk"
->>>>>>> c9f35ba086 (Vox tailfeather is a neck quill instead of a head quill (#1086))
