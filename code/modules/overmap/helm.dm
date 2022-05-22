@@ -29,6 +29,8 @@
 	var/calibrating = FALSE
 	///holding jump timer ID
 	var/jump_timer
+	/// store an ntnet relay for tablets on the ship
+	var/obj/machinery/ntnet_relay/integrated/ntnet_relay
 
 /datum/config_entry/number/bluespace_jump_wait
 	default = 30 MINUTES
@@ -36,6 +38,7 @@
 /obj/machinery/computer/helm/Initialize(mapload, obj/item/circuitboard/C)
 	. = ..()
 	jump_allowed = world.time + CONFIG_GET(number/bluespace_jump_wait)
+	ntnet_relay = new(src)
 
 /obj/machinery/computer/helm/proc/calibrate_jump(inline = FALSE)
 	if(jump_allowed < 0)
@@ -219,7 +222,7 @@
 					to_chat(usr, "<span class='warning'>Cannot dock due to bluespace jump preperations!</span>")
 					return
 				var/datum/overmap/to_act = locate(params["ship_to_act"]) in current_ship.get_nearby_overmap_objects()
-				current_ship.Dock(to_act)
+				say(current_ship.Dock(to_act))
 				return
 			if("toggle_engine")
 				var/obj/machinery/power/shuttle/engine/E = locate(params["engine"]) in current_ship.shuttle_port.engine_list
