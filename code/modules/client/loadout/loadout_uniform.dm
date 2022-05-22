@@ -243,8 +243,6 @@
 	path = /obj/item/clothing/under/misc/psyche
 
 /datum/gear/uniform/maid
-	display_name = "maid outfit"
-	path = /obj/item/clothing/under/costume/maid
 	display_name = "maid dress"
 	path = 	/obj/item/clothing/under/costume/maid
 
