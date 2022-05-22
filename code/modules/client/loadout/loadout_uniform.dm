@@ -284,6 +284,3 @@
 /datum/gear/uniform/trek_ent_medsci
 	display_name = "enterprise medical/science uniform"
 	path = /obj/item/clothing/under/trek/medsci/ent
-
-	display_name = "maid dress"
-	path = 	/obj/item/clothing/under/costume/maid
