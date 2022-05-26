@@ -65,6 +65,7 @@
 	. = ..()
 	SStgui.close_uis(src)
 	ASSERT(length(concurrent_users) == 0)
+	QDEL_NULL(ntnet_relay)
 	if(current_ship)
 		current_ship.helms -= src
 		current_ship = null
