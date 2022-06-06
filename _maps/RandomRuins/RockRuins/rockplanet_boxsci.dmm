@@ -111,6 +111,7 @@
 "iE" = (
 /obj/effect/turf_decal/industrial/outline/yellow,
 /obj/effect/decal/cleanable/dirt,
+/obj/item/robot_suit/prebuilt,
 /turf/open/floor/plasteel,
 /area/ruin/unpowered)
 "jk" = (
@@ -132,6 +133,9 @@
 /obj/machinery/door/poddoor/shutters,
 /turf/open/floor/plasteel/white,
 /area/ruin/unpowered)
+"kD" = (
+/turf/open/floor/plating/asteroid/rockplanet,
+/area/overmap_encounter/planetoid/rockplanet/explored)
 "lv" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
@@ -150,7 +154,7 @@
 /area/ruin/unpowered)
 "nm" = (
 /obj/structure/flora/rock/pile,
-/turf/open/floor/plating/asteroid,
+/turf/open/floor/plating/asteroid/rockplanet,
 /area/overmap_encounter/planetoid/rockplanet/explored)
 "nS" = (
 /obj/effect/decal/cleanable/dirt,
@@ -209,7 +213,7 @@
 /turf/open/floor/plasteel/white,
 /area/ruin/unpowered)
 "ra" = (
-/turf/open/floor/plating/asteroid,
+/turf/open/floor/plating/asteroid/wasteplanet,
 /area/overmap_encounter/planetoid/rockplanet/explored)
 "rm" = (
 /obj/structure/table,
@@ -238,7 +242,7 @@
 /turf/open/floor/plasteel,
 /area/ruin/unpowered)
 "rW" = (
-/obj/item/organ/body_egg/alien_embryo,
+/obj/effect/mob_spawn/slime,
 /turf/open/floor/engine,
 /area/ruin/unpowered)
 "sp" = (
@@ -381,7 +385,7 @@
 /area/ruin/unpowered)
 "Fk" = (
 /obj/effect/mine/shrapnel,
-/turf/open/floor/plating/asteroid,
+/turf/open/floor/plating/asteroid/rockplanet,
 /area/overmap_encounter/planetoid/rockplanet/explored)
 "FH" = (
 /obj/effect/turf_decal/trimline/red/filled/line{
@@ -478,6 +482,7 @@
 /area/ruin/unpowered)
 "My" = (
 /obj/structure/table,
+/obj/item/mmi/syndie,
 /turf/open/floor/plasteel,
 /area/ruin/unpowered)
 "MG" = (
@@ -495,7 +500,7 @@
 /area/ruin/unpowered)
 "NP" = (
 /obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating/asteroid,
+/turf/open/floor/plating/asteroid/wasteplanet,
 /area/ruin/unpowered)
 "Od" = (
 /obj/structure/table,
@@ -711,10 +716,10 @@ Ts
 Ts
 Ts
 MQ
-MQ
+rW
 MQ
 Ts
-ra
+kD
 "}
 (3,1,1) = {"
 AX
@@ -760,7 +765,7 @@ lE
 tc
 yH
 Ts
-MQ
+rW
 MQ
 MQ
 MQ
@@ -836,7 +841,7 @@ NP
 nS
 Ts
 MQ
-MQ
+rW
 MQ
 Ts
 hK
@@ -861,10 +866,10 @@ WJ
 ha
 Ts
 MQ
-rW
+MQ
 MQ
 Ts
-ra
+kD
 "}
 (9,1,1) = {"
 Ts
@@ -909,7 +914,7 @@ Ts
 FH
 Vx
 Cu
-ra
+kD
 Cq
 Cq
 Cq
@@ -935,7 +940,7 @@ zz
 YE
 tW
 Fk
-ra
+kD
 Cq
 Cq
 Cq
@@ -959,10 +964,10 @@ hN
 pz
 nS
 oa
-ra
-ra
-ra
-ra
+kD
+kD
+kD
+kD
 Cq
 Cq
 "}
@@ -984,9 +989,9 @@ aI
 uE
 YE
 tW
-ra
-ra
-ra
+kD
+kD
+kD
 Fk
 Cq
 Cq

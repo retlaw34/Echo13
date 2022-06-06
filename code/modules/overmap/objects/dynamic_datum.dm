@@ -86,7 +86,7 @@
 /**
   * Chooses a type of level for the dynamic level to use.
   */
-/datum/overmap/dynamic/proc/choose_level_type()
+/datum/overmap/dynamic/proc/choose_level_type() //TODO: This is a awful way of hanlding random planets. If maybe it picked from a list of datums that then would be applied on the dynamic datum, it would be a LOT better.
 	var/chosen
 	if(!probabilities)
 		probabilities = list(DYNAMIC_WORLD_LAVA = min(length(SSmapping.lava_ruins_templates), 20),
@@ -94,8 +94,10 @@
 		DYNAMIC_WORLD_JUNGLE = min(length(SSmapping.jungle_ruins_templates), 20),
 		DYNAMIC_WORLD_SAND = min(length(SSmapping.sand_ruins_templates), 20),
 		DYNAMIC_WORLD_SPACERUIN = min(length(SSmapping.space_ruins_templates), 20),
+		DYNAMIC_WORLD_WASTEPLANET = min(length(SSmapping.waste_ruins_templates), 20),
 		DYNAMIC_WORLD_ROCKPLANET = min(length(SSmapping.rock_ruins_templates), 20),
-		//DYNAMIC_WORLD_REEBE = 1, //very rare because of major lack of skil //TODO, make removing no teleport not break things, then it can be reenabled
+		DYNAMIC_WORLD_BEACHPLANET = min(length(SSmapping.beach_ruins_templates), 20),
+		DYNAMIC_WORLD_REEBE = 0, //unspawnable because of major lack of skill.
 		DYNAMIC_WORLD_ASTEROID = 30)
 
 	if(force_encounter)
@@ -104,39 +106,53 @@
 		chosen = pickweight(probabilities)
 	switch(chosen)
 		if(DYNAMIC_WORLD_LAVA)
-			Rename("strange lava planet")
+			Rename("lava planet")
 			token.desc = "A very weak energy signal originating from a planet with lots of seismic and volcanic activity."
 			planet = DYNAMIC_WORLD_LAVA
 			token.icon_state = "globe"
 			token.color = COLOR_ORANGE
 			planet_name = gen_planet_name()
 		if(DYNAMIC_WORLD_ICE)
-			Rename("strange ice planet")
+			Rename("frozen planet")
 			token.desc = "A very weak energy signal originating from a planet with traces of water and extremely low temperatures."
 			planet = DYNAMIC_WORLD_ICE
 			token.icon_state = "globe"
 			token.color = COLOR_BLUE_LIGHT
 			planet_name = gen_planet_name()
 		if(DYNAMIC_WORLD_JUNGLE)
-			Rename("strange jungle planet")
+			Rename("jungle planet")
 			token.desc = "A very weak energy signal originating from a planet teeming with life."
 			planet = DYNAMIC_WORLD_JUNGLE
 			token.icon_state = "globe"
 			token.color = COLOR_LIME
 			planet_name = gen_planet_name()
 		if(DYNAMIC_WORLD_SAND)
-			Rename("strange sand planet")
+			Rename("sand planet")
 			token.desc = "A very weak energy signal originating from a planet with many traces of silica."
 			planet = DYNAMIC_WORLD_SAND
 			token.icon_state = "globe"
 			token.color = COLOR_GRAY
 			planet_name = gen_planet_name()
+		if(DYNAMIC_WORLD_WASTEPLANET)
+			Rename("waste disposal planet")
+			token.desc = "A very weak energy signal originating from a planet marked as waste disposal."
+			planet = DYNAMIC_WORLD_WASTEPLANET
+			token.icon_state = "globe"
+			token.color = "#a9883e"
+			planet_name = gen_planet_name()
 		if(DYNAMIC_WORLD_ROCKPLANET)
-			Rename("strange rock planet")
-			token.desc = "A very weak energy signal originating from a abandoned industrial planet."
+			Rename("rock planet")
+			token.desc = "A very weak energy signal originating from a iron rich and rocky planet."
 			planet = DYNAMIC_WORLD_ROCKPLANET
 			token.icon_state = "globe"
-			token.color = COLOR_BROWN
+			token.color = "#bd1313"
+			planet_name = gen_planet_name()
+		if(DYNAMIC_WORLD_BEACHPLANET)
+			Rename("beach planet")
+			token.desc = "A very weak energy signal originating from a warm, oxygen rich planet."
+			planet = DYNAMIC_WORLD_BEACHPLANET
+			token.icon_state = "globe"
+			token.color = "#c6b597"
 			planet_name = gen_planet_name()
 		if(DYNAMIC_WORLD_REEBE)
 			Rename("???")
@@ -144,6 +160,7 @@
 			planet = DYNAMIC_WORLD_REEBE
 			token.icon_state = "wormhole"
 			token.color = COLOR_YELLOW
+			planet_name = "Reebe"
 		if(DYNAMIC_WORLD_ASTEROID)
 			Rename("large asteroid")
 			token.desc = "A large asteroid with significant traces of minerals."
@@ -268,6 +285,12 @@
 	has_gravity = STANDARD_GRAVITY
 	always_unpowered = TRUE
 
+/area/overmap_encounter/planetoid/cave
+	name = "\improper Planetoid Cavern"
+	sound_environment = SOUND_ENVIRONMENT_CAVE
+	ambientsounds = SPOOKY
+	outdoors = FALSE
+
 /area/overmap_encounter/planetoid/lava
 	name = "\improper Volcanic Planetoid"
 	ambientsounds = MINING
@@ -289,12 +312,22 @@
 
 /area/overmap_encounter/planetoid/rockplanet
 	name = "\improper Rocky Planetoid"
-	sound_environment = SOUND_ENVIRONMENT_HANGAR
-	ambientsounds = MAINTENANCE
+	sound_environment = SOUND_ENVIRONMENT_QUARRY
+	ambientsounds = AWAY_MISSION
+
+/area/overmap_encounter/planetoid/beachplanet
+	name = "\improper Beach Planetoid"
+	sound_environment = SOUND_ENVIRONMENT_FOREST
+	ambientsounds = BEACH
 
 /area/overmap_encounter/planetoid/rockplanet/explored//for use in ruins
 	area_flags = UNIQUE_AREA
 	area_flags = VALID_TERRITORY | UNIQUE_AREA
+
+/area/overmap_encounter/planetoid/wasteplanet
+	name = "\improper Waste Planetoid"
+	sound_environment = SOUND_ENVIRONMENT_HANGAR
+	ambientsounds = MAINTENANCE
 
 /area/overmap_encounter/planetoid/reebe
 	name = "\improper Yellow Space"
