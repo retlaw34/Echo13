@@ -228,10 +228,10 @@ SUBSYSTEM_DEF(overmap)
 				weather_controller_type = /datum/weather_controller/snow_planet
 			if(DYNAMIC_WORLD_SAND)
 				ruin_list = SSmapping.sand_ruins_templates
-				mapgen = new /datum/map_generator/cave_generator/whitesands
+				mapgen = new /datum/map_generator/planet_generator/sand
 				target_area = /area/overmap_encounter/planetoid/sand
 				surface = /turf/open/floor/plating/asteroid/whitesands
-				//planet_template = /datum/planet/lava //TODO, MAKE NEW PLANET TEMPLATE
+				planet_template = /datum/planet/sand //TODO, MAKE NEW PLANET TEMPLATE
 				weather_controller_type = /datum/weather_controller/desert
 			if(DYNAMIC_WORLD_JUNGLE)
 				ruin_list = SSmapping.jungle_ruins_templates

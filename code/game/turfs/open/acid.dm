@@ -14,6 +14,11 @@
 	barefootstep = FOOTSTEP_LAVA
 	clawfootstep = FOOTSTEP_LAVA
 	heavyfootstep = FOOTSTEP_LAVA
+	density = TRUE //This will prevent hostile mobs from pathing into acid, while the canpass override will still let it function like an open turf
+
+/turf/open/acid/CanAllowThrough(atom/movable/AM, turf/target)
+	. = ..()
+	return TRUE
 
 /turf/open/acid/ex_act(severity, target)
 	contents_explosion(severity, target)
@@ -80,10 +85,10 @@
 		if(H)
 			to_chat(user, "<span class='warning'>There is already a lattice here!</span>")
 			return
-		if(R.use(1))
-			to_chat(user, "<span class='notice'>You construct a lattice.</span>")
+		if(R.use(2))
+			to_chat(user, "<span class='notice'>You construct a catwalk.</span>")
 			playsound(src, 'sound/weapons/genhit.ogg', 50, TRUE)
-			new /obj/structure/lattice/lava(locate(x, y, z))
+			new /obj/structure/lattice/catwalk(locate(x, y, z))
 		else
 			to_chat(user, "<span class='warning'>You need one rod to build a lattice.</span>")
 		return
