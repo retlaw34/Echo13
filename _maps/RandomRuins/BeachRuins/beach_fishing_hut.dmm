@@ -172,11 +172,6 @@
 	},
 /turf/open/floor/wood,
 /area/ruin/powered)
-"Ko" = (
-/turf/closed/wall/mineral/wood,
-/area/ruin/powered{
-	name = "\improper Dining Hall"
-	})
 "Kq" = (
 /obj/machinery/light/dim,
 /turf/open/floor/plasteel/kitchen_coldroom/freezerfloor,
@@ -496,10 +491,10 @@ FG
 FG
 "}
 (16,1,1) = {"
-Ko
-Ko
-Ko
-Ko
+ep
+ep
+ep
+ep
 ep
 Eq
 ep
