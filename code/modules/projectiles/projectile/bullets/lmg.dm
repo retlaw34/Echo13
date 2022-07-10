@@ -54,14 +54,13 @@
 
 /obj/projectile/bullet/mm712x82
 	name = "7.12x82mm bullet"
-	damage = 40
+	damage = 35
 	armour_penetration = 5
 	wound_bonus = -50
 	wound_falloff_tile = 0
 
 /obj/projectile/bullet/mm712x82_ap
 	name = "7.12x82mm armor-piercing bullet"
-	damage = 40
 	armour_penetration = 75
 
 /obj/projectile/bullet/mm712x82_hp
@@ -75,7 +74,7 @@
 
 /obj/projectile/bullet/incendiary/mm712x82
 	name = "7.12x82mm incendiary bullet"
-	damage = 20
+	damage = 15
 	fire_stacks = 3
 
 /obj/projectile/bullet/mm712x82_match
