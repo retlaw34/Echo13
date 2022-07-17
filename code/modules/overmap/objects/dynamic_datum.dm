@@ -242,7 +242,7 @@
 			token.color = COLOR_GRAY
 
 			ruin_list = null // asteroid ruins when
-			mapgen = new /datum/map_generator/cave_generator/asteroid
+			mapgen = /datum/map_generator/cave_generator/asteroid
 		if(DYNAMIC_WORLD_SPACERUIN)
 			Rename("weak energy signal")
 			token.desc = "A very weak energy signal emenating from space."
@@ -360,6 +360,7 @@
 	sound_environment = SOUND_ENVIRONMENT_STONEROOM
 	ambientsounds = RUINS
 	outdoors = TRUE
+	allow_weather = TRUE
 
 /area/overmap_encounter/planetoid
 	name = "\improper Unknown Planetoid"
@@ -371,7 +372,7 @@
 	name = "\improper Planetoid Cavern"
 	sound_environment = SOUND_ENVIRONMENT_CAVE
 	ambientsounds = SPOOKY
-	outdoors = FALSE
+	allow_weather = FALSE
 
 /area/overmap_encounter/planetoid/lava
 	name = "\improper Volcanic Planetoid"
